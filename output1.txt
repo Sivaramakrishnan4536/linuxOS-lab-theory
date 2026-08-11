@@ -1,0 +1,34 @@
+: upadting system
+Hit:1 http://in.archive.ubuntu.com/ubuntu resolute InRelease
+Get:2 http://in.archive.ubuntu.com/ubuntu resolute-updates InRelease [137 kB]
+Get:3 http://security.ubuntu.com/ubuntu resolute-security InRelease [137 kB]
+Hit:4 http://in.archive.ubuntu.com/ubuntu resolute-backports InRelease
+Get:5 http://in.archive.ubuntu.com/ubuntu resolute-updates/main amd64 Packages [453 kB]
+Get:6 http://security.ubuntu.com/ubuntu resolute-security/main amd64 Packages [375 kB]
+Get:7 http://security.ubuntu.com/ubuntu resolute-security/main Translation-en [91.1 kB]
+Get:8 http://in.archive.ubuntu.com/ubuntu resolute-updates/main Translation-en [112 kB]
+Get:9 http://in.archive.ubuntu.com/ubuntu resolute-updates/main amd64 Components [84.8 kB]
+Get:10 http://in.archive.ubuntu.com/ubuntu resolute-updates/restricted amd64 Packages [334 kB]
+Get:11 http://in.archive.ubuntu.com/ubuntu resolute-updates/restricted Translation-en [63.4 kB]
+Get:12 http://in.archive.ubuntu.com/ubuntu resolute-updates/universe amd64 Packages [237 kB]
+Get:13 http://security.ubuntu.com/ubuntu resolute-security/main amd64 Components [32.7 kB]
+Get:14 http://in.archive.ubuntu.com/ubuntu resolute-updates/universe amd64 Components [183 kB]
+Get:15 http://security.ubuntu.com/ubuntu resolute-security/universe amd64 Packages [154 kB]
+Get:16 http://in.archive.ubuntu.com/ubuntu resolute-updates/universe Icons (48x48) [50.0 kB]
+Get:17 http://in.archive.ubuntu.com/ubuntu resolute-updates/universe Icons (64x64) [75.9 kB]
+Get:18 http://security.ubuntu.com/ubuntu resolute-security/universe Translation-en [49.8 kB]
+Get:19 http://security.ubuntu.com/ubuntu resolute-security/universe amd64 Components [43.2 kB]
+Fetched 2,613 kB in 8s (344 kB/s)
+Reading package lists...
+Building dependency tree...
+Reading state information...
+140 packages can be upgraded. Run 'apt list --upgradable' to see them.
+Hit:1 http://in.archive.ubuntu.com/ubuntu resolute InRelease
+Hit:2 http://security.ubuntu.com/ubuntu resolute-security InRelease
+Hit:3 http://in.archive.ubuntu.com/ubuntu resolute-updates InRelease
+Hit:4 http://in.archive.ubuntu.com/ubuntu resolute-backports InRelease
+Reading package lists...
+Building dependency tree...
+Reading state information...
+140 packages can be upgraded. Run 'apt list --upgradable' to see them.
+process completed
